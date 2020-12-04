@@ -1,0 +1,47 @@
+.content {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 4fr 1fr 4fr;
+}
+
+.camera-img {
+    grid-column: 2;
+    grid-row: 1;
+    width: 60%;
+    margin: 0px auto;
+}
+
+.explain {
+    grid-column: 1/4;
+    grid-row: 2;
+    width: 100%;
+}
+
+.explain > p {
+    text-align: justify;
+    line-height: 30px;
+    font-family: Parkavenue, Comic Sans MS, cursive;
+    font-size: 22px;
+    padding: 0px 15px 0px 15px;
+}
+
+.explain a {
+    text-decoration: none;
+}
+
+@media (max-width: 800px) {
+    .camera-img {
+        grid-column: 1/4;
+        width: 90%;
+    }
+    
+    .explain {
+        grid-column: 1/4;
+        grid-row: 2;
+    }
+    
+    .explain > p {
+        font-size: 20px;
+        padding: 10px;
+    }
+}

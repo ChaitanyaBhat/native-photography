@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09fca536.chunk.css",
+    "main.js": "/static/js/main.a7995c29.chunk.js",
+    "main.js.map": "/static/js/main.a7995c29.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2ab55c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2ab55c3.js.map",
+    "static/js/2.92621da6.chunk.js": "/static/js/2.92621da6.chunk.js",
+    "static/js/2.92621da6.chunk.js.map": "/static/js/2.92621da6.chunk.js.map",
+    "static/js/3.89675139.chunk.js": "/static/js/3.89675139.chunk.js",
+    "static/js/3.89675139.chunk.js.map": "/static/js/3.89675139.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.09fca536.chunk.css.map": "/static/css/main.09fca536.chunk.css.map",
+    "static/js/2.92621da6.chunk.js.LICENSE.txt": "/static/js/2.92621da6.chunk.js.LICENSE.txt",
+    "static/media/camera_girl.72d91397.jpg": "/static/media/camera_girl.72d91397.jpg",
+    "static/media/contact.94f7bee4.png": "/static/media/contact.94f7bee4.png",
+    "static/media/duck.6ce4f71d.jpg": "/static/media/duck.6ce4f71d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ab55c3.js",
+    "static/js/2.92621da6.chunk.js",
+    "static/css/main.09fca536.chunk.css",
+    "static/js/main.a7995c29.chunk.js"
+  ]
+}

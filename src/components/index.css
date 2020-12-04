@@ -1,0 +1,56 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 0px;
+    grid-auto-rows: minmax(100px, auto);   
+}
+    
+.duck-img {
+    grid-column: 1 ;
+    grid-row: 1;
+    width:100%;
+    height: 100%;
+}
+
+.links {
+    grid-column: 1 ;
+    grid-row: 1;
+    width:100%;
+}
+
+.footer {
+    grid-column: 1 ;
+    grid-row: 2;
+    width:100%;
+    background-color:rgb(4,13,41); 
+}
+
+.links > a {
+    display: block;
+    text-decoration: none;
+    font-size: 26px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(4, 87, 87);   
+    text-shadow: 1px 1px 1px #000000; 
+    margin: 70px 0px 70px;
+}
+.footer > * {
+    display: block;
+    color: white;
+}
+.footer > .authority, .footer > .sathvik-link {
+    display: inline-block;
+}
+.footer > a {
+    display: block;
+    margin: 5px 0px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+@media (min-height: 672px) {
+    .footer {
+        height: 50vh;
+    }
+}
