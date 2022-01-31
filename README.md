@@ -1,5 +1,5 @@
 This is a website built using React.js
-It can be found here - https://nativephotography.in/
+It can be found here - https://nativephotography.in
 
 Screenshots of some pages of the website are attached below:
 
