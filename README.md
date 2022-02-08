@@ -1,4 +1,4 @@
-NATIVE PHOTOGRAPHY WEBSITE
+# NATIVE PHOTOGRAPHY WEBSITE
 
 This is a website built using React.js
 It can be found here - https://nativephotography.in
